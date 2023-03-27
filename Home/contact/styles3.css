@@ -133,12 +133,11 @@ p {
     font-size: 18px; /* Change the font size to your desired value */
   }
   
-
-
-
-
-
-
+  .btn {
+    padding: 13px 20px;
+    /* other styles */
+  }
+  
 
 
 
